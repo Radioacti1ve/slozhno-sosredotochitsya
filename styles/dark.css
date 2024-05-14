@@ -10,3 +10,15 @@
     чем стили в медиазапросе предпочтений пользователя
   */
 }
+
+@media (prefers-color-scheme: dark) {
+  .page {
+    background-image: url("../images/cover-image-dark.png");
+    --text-color: #f1b2ce;
+    --accent-color: #ff0070;
+    --bg-color: #000028;
+    --decoration-color: #db00ff;
+    --hover-color: #ff007066;
+    --title-color: #000028;
+  }
+}
