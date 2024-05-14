@@ -5,12 +5,12 @@
 */
 
 .page.theme_light {
-  --text-color: #353430; 
+  --text-color: #353430;
   --accent-color: #ff8dcb;
   --text-size: 18px;
   --bg-color: #f5f5f5;
   --decoration-color: #ffc2e6;
   --hover-color: #ff007066;
   --title-color: #353430;
-  background-image: url('../images/cover-image-light.png');
+  background-image: url("../images/cover-image-light.png");
 }
