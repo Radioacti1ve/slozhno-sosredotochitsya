@@ -27,3 +27,7 @@
     --title-color: #353430;
   }
 }
+
+.theme_light .main__title {
+  color: var(--text-color)
+}
