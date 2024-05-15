@@ -26,6 +26,9 @@
     --hover-color: #ff007066;
     --title-color: #353430;
   }
+  .main__title {
+    color: var(--text-color);
+  }
 }
 
 .theme_light .main__title {
